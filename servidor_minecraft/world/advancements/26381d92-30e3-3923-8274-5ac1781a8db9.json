@@ -154,7 +154,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-03 17:07:34 +0000"
+      "bread": "2025-01-03 17:07:34 +0000",
+      "glow_berries": "2025-01-04 13:23:54 +0000"
     },
     "done": false
   },

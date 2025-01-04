@@ -5542,3 +5542,50 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [04Jan2025 13:19:57.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MAGO]chawito> llamda
 [04Jan2025 13:23:29.126] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [04Jan2025 13:23:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Not Today, Thank You]
+[04Jan2025 13:24:14.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 13:24:14.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 13:24:27.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Diamonds!]
+[04Jan2025 13:26:18.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was slain by Spider
+[04Jan2025 13:26:19.632] [Server thread/DEBUG] [twilightforest/]: Player grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2) respawned and received items held in storage
+[04Jan2025 13:28:50.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[04Jan2025 13:28:50.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito left the game
+[04Jan2025 13:29:13.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 13:29:13.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 13:29:38.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Timed out
+[04Jan2025 13:29:38.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[04Jan2025 13:33:21.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jan2025 13:33:21.518] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[04Jan2025 13:33:21.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 13:33:21.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 13:33:21.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 13:33:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 13:33:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:iceika
+[04Jan2025 13:33:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/solarcraft:radiant_land
+[04Jan2025 13:33:21.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 13:33:21.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:wildwood
+[04Jan2025 13:33:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:skythern
+[04Jan2025 13:33:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:mortum
+[04Jan2025 13:33:21.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:apalachia
+[04Jan2025 13:33:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:arcana
+[04Jan2025 13:33:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:eden
+[04Jan2025 13:33:21.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[04Jan2025 13:33:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:vethea
+[04Jan2025 13:33:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 13:33:21.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 13:33:21.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 13:33:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 13:33:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (iceika): All chunks are saved
+[04Jan2025 13:33:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (radiant_land): All chunks are saved
+[04Jan2025 13:33:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 13:33:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (wildwood): All chunks are saved
+[04Jan2025 13:33:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (skythern): All chunks are saved
+[04Jan2025 13:33:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mortum): All chunks are saved
+[04Jan2025 13:33:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (apalachia): All chunks are saved
+[04Jan2025 13:33:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (arcana): All chunks are saved
+[04Jan2025 13:33:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (eden): All chunks are saved
+[04Jan2025 13:33:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[04Jan2025 13:33:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (vethea): All chunks are saved
+[04Jan2025 13:33:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 13:33:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2025 13:33:21.666] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[04Jan2025 13:33:21.667] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

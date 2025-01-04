@@ -49,8 +49,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-03 17:16:06 +0000",
+      "minecraft:spider": "2025-01-04 13:23:26 +0000",
       "minecraft:creeper": "2025-01-03 16:26:06 +0000",
       "minecraft:husk": "2025-01-03 17:22:16 +0000",
+      "minecraft:cave_spider": "2025-01-04 13:27:19 +0000",
       "minecraft:enderman": "2025-01-04 13:14:05 +0000",
       "minecraft:zombie": "2025-01-03 17:09:18 +0000"
     },
@@ -71,7 +73,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-03 17:03:42 +0000",
-      "golden_apple": "2025-01-03 17:30:25 +0000"
+      "golden_apple": "2025-01-03 17:30:25 +0000",
+      "carrot": "2025-01-04 13:25:42 +0000"
     },
     "done": false
   },
@@ -156,6 +159,18 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-01-03 18:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-04 13:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-04 13:24:27 +0000"
     },
     "done": true
   },
