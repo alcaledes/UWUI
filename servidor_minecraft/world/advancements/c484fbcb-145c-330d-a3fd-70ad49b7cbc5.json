@@ -1,0 +1,169 @@
+{
+  "divinerpg:overworld/patchouli": {
+    "criteria": {
+      "tick": "2025-01-02 15:19:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-02 15:19:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-02 15:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-01-03 18:09:48 +0000",
+      "minecraft:savanna_plateau": "2025-01-03 18:03:33 +0000",
+      "minecraft:beach": "2025-01-03 18:00:33 +0000",
+      "minecraft:sparse_jungle": "2025-01-03 17:58:27 +0000",
+      "minecraft:river": "2025-01-03 17:50:22 +0000",
+      "minecraft:stony_shore": "2025-01-03 16:18:54 +0000",
+      "minecraft:forest": "2025-01-03 17:50:19 +0000",
+      "minecraft:lush_caves": "2025-01-03 18:10:12 +0000",
+      "minecraft:savanna": "2025-01-02 15:19:19 +0000",
+      "minecraft:plains": "2025-01-03 17:50:11 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2025-01-02 15:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-02 15:19:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-02 15:19:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-02 15:22:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "trophy": "2025-01-02 15:24:32 +0000"
+    },
+    "done": false
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-01-02 15:25:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-02 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_sword": "2025-01-03 16:02:36 +0000",
+      "fiery_pick": "2025-01-02 15:33:45 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-03 16:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-03 17:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-03 18:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-03 18:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 18:23:01 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-01-03 18:14:18 +0000"
+    },
+    "done": false
+  },
+  "armorplus:story/thank_you_6m": {
+    "criteria": {
+      "open_inventory": "2025-01-03 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-03 18:06:00 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/eye_of_evil": {
+    "criteria": {
+      "look_into_the_eye": "2025-01-03 18:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-03 18:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 18:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-03 18:22:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

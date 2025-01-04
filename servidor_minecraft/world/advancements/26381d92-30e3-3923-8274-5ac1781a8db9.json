@@ -1,0 +1,222 @@
+{
+  "divinerpg:overworld/patchouli": {
+    "criteria": {
+      "tick": "2025-01-01 16:24:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-01 16:24:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-01 16:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2025-01-03 16:34:49 +0000",
+      "minecraft:stony_shore": "2025-01-03 16:34:39 +0000",
+      "minecraft:lush_caves": "2025-01-04 13:16:42 +0000",
+      "minecraft:deep_dark": "2025-01-03 16:47:01 +0000",
+      "minecraft:savanna": "2025-01-01 16:24:46 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2025-01-01 16:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-01 16:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-01 16:34:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-01 16:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-01 16:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-03 17:15:36 +0000",
+      "minecraft:spider": "2025-01-03 20:51:23 +0000",
+      "minecraft:creeper": "2025-01-03 16:26:28 +0000",
+      "minecraft:cave_spider": "2025-01-03 20:34:43 +0000",
+      "minecraft:zombie": "2025-01-01 16:48:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-01 16:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-02 15:21:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "trophy": "2025-01-02 15:24:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-02 16:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-02 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-03 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-01-03 16:24:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-01-03 16:34:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "sea_staff": "2025-01-03 16:38:39 +0000",
+      "ortholance": "2025-01-03 16:41:26 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-01-03 16:39:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-01-03 16:42:51 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/gingerbread_armor": {
+    "criteria": {
+      "helmet": "2025-01-03 16:45:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-03 16:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 17:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-03 17:07:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-03 17:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-03 17:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/thank_you_6m": {
+    "criteria": {
+      "open_inventory": "2025-01-03 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-03 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-04 13:18:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-04 13:18:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-04 13:18:45 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,122 @@
+{
+  "divinerpg:overworld/patchouli": {
+    "criteria": {
+      "tick": "2025-01-03 16:29:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-03 16:29:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-03 16:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-03 16:56:03 +0000",
+      "minecraft:birch_forest": "2025-01-03 16:56:49 +0000",
+      "minecraft:bamboo_jungle": "2025-01-03 16:56:20 +0000",
+      "minecraft:beach": "2025-01-03 17:12:10 +0000",
+      "minecraft:dark_forest": "2025-01-03 16:56:10 +0000",
+      "minecraft:river": "2025-01-03 16:55:41 +0000",
+      "minecraft:stony_shore": "2025-01-03 17:11:53 +0000",
+      "minecraft:forest": "2025-01-03 16:55:23 +0000",
+      "minecraft:lush_caves": "2025-01-03 16:57:56 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-03 16:55:42 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-03 16:55:28 +0000",
+      "minecraft:savanna": "2025-01-03 16:29:19 +0000",
+      "minecraft:plains": "2025-01-03 16:55:16 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2025-01-03 16:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-03 16:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-03 16:50:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-01-03 16:57:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-03 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-03 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/thank_you_6m": {
+    "criteria": {
+      "open_inventory": "2025-01-03 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 17:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-03 17:39:00 +0000",
+      "mutton": "2025-01-03 17:19:08 +0000",
+      "bread": "2025-01-03 17:29:10 +0000",
+      "rotten_flesh": "2025-01-03 17:59:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-03 18:07:18 +0000",
+      "minecraft:creeper": "2025-01-03 17:28:23 +0000",
+      "minecraft:zombie": "2025-01-03 17:55:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-01-03 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

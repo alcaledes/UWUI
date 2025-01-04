@@ -1,0 +1,33 @@
+{
+  "divinerpg:overworld/patchouli": {
+    "criteria": {
+      "tick": "2025-01-01 16:27:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-01 16:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-01-01 16:27:03 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-01 16:27:02 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2025-01-01 16:27:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
