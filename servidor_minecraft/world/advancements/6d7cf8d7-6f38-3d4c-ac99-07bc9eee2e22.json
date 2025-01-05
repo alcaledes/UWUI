@@ -231,15 +231,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-01-03 20:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-01-03 20:57:26 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_conqueror": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "location0": "2025-01-03 20:57:20 +0000"
+      "obsidian": "2025-01-05 18:21:51 +0000"
     },
     "done": true
   },
