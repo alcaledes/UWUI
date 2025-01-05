@@ -19,9 +19,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-05 18:56:02 +0000",
+      "minecraft:taiga": "2025-01-05 19:11:39 +0000",
+      "minecraft:deep_ocean": "2025-01-05 19:18:55 +0000",
+      "minecraft:frozen_river": "2025-01-05 19:17:21 +0000",
+      "minecraft:birch_forest": "2025-01-05 19:05:52 +0000",
+      "minecraft:dark_forest": "2025-01-05 19:40:51 +0000",
       "minecraft:lukewarm_ocean": "2025-01-03 16:34:49 +0000",
+      "minecraft:river": "2025-01-05 19:04:07 +0000",
       "minecraft:stony_shore": "2025-01-03 16:34:39 +0000",
+      "minecraft:snowy_taiga": "2025-01-05 19:18:07 +0000",
+      "minecraft:swamp": "2025-01-05 18:47:49 +0000",
       "minecraft:lush_caves": "2025-01-04 13:16:42 +0000",
+      "minecraft:jungle": "2025-01-05 19:37:36 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-05 19:04:08 +0000",
       "minecraft:deep_dark": "2025-01-03 16:47:01 +0000",
       "minecraft:savanna": "2025-01-01 16:24:46 +0000"
     },
@@ -154,6 +165,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-05 19:32:11 +0000",
       "bread": "2025-01-03 17:07:34 +0000",
       "glow_berries": "2025-01-04 13:23:54 +0000"
     },
@@ -216,6 +228,48 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-04 13:18:45 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/eye_of_evil": {
+    "criteria": {
+      "look_into_the_eye": "2025-01-05 18:36:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-01-05 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-01-05 19:21:34 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/jungle_stegosaurus_slayer": {
+    "criteria": {
+      "kill_jungle_dramcryx": "2025-01-05 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-05 19:08:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-05 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-01-05 19:40:02 +0000"
     },
     "done": true
   },

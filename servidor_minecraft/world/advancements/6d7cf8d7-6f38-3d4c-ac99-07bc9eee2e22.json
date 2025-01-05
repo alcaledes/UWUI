@@ -21,13 +21,19 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-03 16:54:52 +0000",
       "minecraft:taiga": "2025-01-03 16:56:23 +0000",
+      "minecraft:deep_ocean": "2025-01-05 18:48:23 +0000",
       "minecraft:birch_forest": "2025-01-03 20:57:33 +0000",
+      "minecraft:mangrove_swamp": "2025-01-05 18:40:09 +0000",
       "minecraft:river": "2025-01-03 16:54:51 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-05 18:40:26 +0000",
       "minecraft:dripstone_caves": "2025-01-03 17:59:56 +0000",
       "minecraft:swamp": "2025-01-03 16:57:51 +0000",
       "minecraft:forest": "2025-01-03 16:54:30 +0000",
       "minecraft:lush_caves": "2025-01-03 18:25:26 +0000",
+      "minecraft:jungle": "2025-01-05 18:34:43 +0000",
+      "minecraft:ocean": "2025-01-05 19:12:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 16:54:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-05 18:41:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 16:54:45 +0000",
       "minecraft:savanna": "2025-01-03 16:04:37 +0000",
       "minecraft:plains": "2025-01-03 16:54:26 +0000"
@@ -97,9 +103,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-03 17:27:37 +0000",
+      "minecraft:elder_guardian": "2025-01-05 18:47:08 +0000",
+      "minecraft:guardian": "2025-01-05 18:43:10 +0000",
+      "minecraft:spider": "2025-01-05 19:24:35 +0000",
+      "minecraft:creeper": "2025-01-05 19:28:20 +0000",
       "minecraft:witch": "2025-01-03 17:40:14 +0000",
       "minecraft:cave_spider": "2025-01-03 17:38:57 +0000",
-      "minecraft:zombie": "2025-01-03 17:27:07 +0000"
+      "minecraft:zombie": "2025-01-03 17:27:07 +0000",
+      "minecraft:drowned": "2025-01-05 18:39:27 +0000"
     },
     "done": false
   },
@@ -246,6 +257,48 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-05 18:21:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-05 18:27:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-01-05 18:31:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-05 18:35:52 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/jungle_stegosaurus_slayer": {
+    "criteria": {
+      "kill_jungle_dramcryx": "2025-01-05 18:36:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-05 19:14:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-05 19:15:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-05 19:15:29 +0000"
     },
     "done": true
   },

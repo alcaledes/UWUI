@@ -22,11 +22,14 @@
       "minecraft:taiga": "2025-01-03 17:17:44 +0000",
       "minecraft:sunflower_plains": "2025-01-03 17:06:51 +0000",
       "minecraft:birch_forest": "2025-01-03 18:38:54 +0000",
+      "minecraft:mangrove_swamp": "2025-01-05 19:24:40 +0000",
       "minecraft:river": "2025-01-04 13:10:57 +0000",
       "minecraft:stony_shore": "2025-01-03 16:34:41 +0000",
       "minecraft:swamp": "2025-01-03 18:12:39 +0000",
       "minecraft:forest": "2025-01-03 17:04:58 +0000",
       "minecraft:lush_caves": "2025-01-03 17:12:33 +0000",
+      "minecraft:windswept_forest": "2025-01-05 18:37:53 +0000",
+      "minecraft:jungle": "2025-01-05 18:39:46 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 17:10:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 17:07:54 +0000",
       "minecraft:savanna": "2025-01-03 16:01:43 +0000",
@@ -48,9 +51,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-05 18:36:51 +0000",
       "minecraft:skeleton": "2025-01-03 17:16:06 +0000",
+      "minecraft:ravager": "2025-01-05 19:52:21 +0000",
+      "minecraft:vindicator": "2025-01-05 18:37:30 +0000",
       "minecraft:spider": "2025-01-04 13:23:26 +0000",
       "minecraft:creeper": "2025-01-03 16:26:06 +0000",
+      "minecraft:wither_skeleton": "2025-01-05 19:47:53 +0000",
       "minecraft:husk": "2025-01-03 17:22:16 +0000",
       "minecraft:cave_spider": "2025-01-04 13:27:19 +0000",
       "minecraft:enderman": "2025-01-04 13:14:05 +0000",
@@ -73,8 +80,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-01-05 18:19:52 +0000",
+      "mutton": "2025-01-05 18:42:45 +0000",
       "bread": "2025-01-03 17:03:42 +0000",
       "golden_apple": "2025-01-03 17:30:25 +0000",
+      "rotten_flesh": "2025-01-05 19:28:04 +0000",
+      "golden_carrot": "2025-01-05 18:53:44 +0000",
       "carrot": "2025-01-04 13:25:42 +0000"
     },
     "done": false
@@ -172,6 +182,54 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-04 13:24:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-05 18:25:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-05 18:25:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-05 18:31:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-01-05 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-01-05 18:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/jungle_stegosaurus_slayer": {
+    "criteria": {
+      "kill_jungle_dramcryx": "2025-01-05 19:29:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-05 19:35:25 +0000"
     },
     "done": true
   },
