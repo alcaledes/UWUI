@@ -960,3 +960,23 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [05Jan2025 21:14:54.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:50646] logged in with entity id 87668 at (-4096.810172925397, 96.0, 926.2427997169825)
 [05Jan2025 21:14:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
 [05Jan2025 21:14:54.937] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 21:22:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was slain by [MAGO]grillo11
+[05Jan2025 21:25:12.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 4 targets]
+[05Jan2025 21:25:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was killed
+[05Jan2025 21:25:56.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Killed [MAGO]grillo11]
+[05Jan2025 21:26:01.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: You logged in from another location
+[05Jan2025 21:26:01.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 21:26:01.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:53542] logged in with entity id 90468 at (-4097.4282714418905, 95.0, 928.4283149657558)
+[05Jan2025 21:26:01.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 21:26:01.494] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 21:26:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was killed
+[05Jan2025 21:26:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Killed [MAGO]javipgRLY]
+[05Jan2025 21:26:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]chawito]
+[05Jan2025 21:26:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 21:26:48.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Applied effect Night Vision to 4 targets]
+[05Jan2025 21:30:25.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was slain by [MAGO]javipgRLY
+[05Jan2025 21:30:27.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[05Jan2025 21:30:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito left the game
+[05Jan2025 21:30:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to [MAGO]Rdrx_88]
+[05Jan2025 21:31:22.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was slain by [MAGO]grillo11
+[05Jan2025 21:32:05.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to [MAGO]Rdrx_88]
