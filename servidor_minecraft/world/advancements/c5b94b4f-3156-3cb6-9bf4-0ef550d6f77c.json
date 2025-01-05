@@ -36,15 +36,27 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
-      "diamond_chestplate": "2025-01-05 20:07:40 +0000"
+      "location0": "2025-01-05 19:40:18 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-01-05 19:42:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-01-05 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-05 19:49:21 +0000"
     },
     "done": true
   },
@@ -60,21 +72,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_mechanical_nest": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "location0": "2025-01-05 19:49:21 +0000"
-    },
-    "done": true
-  },
-  "armorplus:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-05 20:07:18 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2025-01-05 19:40:18 +0000"
+      "get_stone": "2025-01-05 20:00:46 +0000"
     },
     "done": true
   },
@@ -84,27 +84,9 @@
     },
     "done": false
   },
-  "armorplus:story/thank_you_6m": {
-    "criteria": {
-      "open_inventory": "2025-01-05 20:07:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-05 20:00:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-05 20:01:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-01-05 19:43:34 +0000"
     },
     "done": true
   },
@@ -114,9 +96,39 @@
     },
     "done": true
   },
+  "armorplus:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-05 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/thank_you_6m": {
+    "criteria": {
+      "open_inventory": "2025-01-05 20:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-05 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-05 20:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-05 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-05 21:00:57 +0000"
     },
     "done": true
   },

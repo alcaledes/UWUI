@@ -773,3 +773,190 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [05Jan2025 20:18:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Killed [MAGO]Rdrx_88]
 [05Jan2025 20:18:45.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported [MAGO]Rdrx_88 to [MAGO]chawito]
 [05Jan2025 20:19:00.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 4 targets]
+[05Jan2025 20:21:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]javipgRLY]
+[05Jan2025 20:21:19.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]chawito]
+[05Jan2025 20:21:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was doomed to fall by [MAGO]chawito
+[05Jan2025 20:22:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]chawito]
+[05Jan2025 20:22:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:23:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was slain by [MAGO]Rdrx_88
+[05Jan2025 20:24:03.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:26:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]grillo11]
+[05Jan2025 20:27:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]javipgRLY]
+[05Jan2025 20:30:21.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported [MAGO]Rdrx_88 to [MAGO]javipgRLY]
+[05Jan2025 20:32:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set the time to 1000]
+[05Jan2025 20:38:03.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 was kicked for floating too long!
+[05Jan2025 20:38:03.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Flying is not enabled on this server
+[05Jan2025 20:38:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:39:25.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported [MAGO]Rdrx_88 to [MAGO]chawito]
+[05Jan2025 20:39:35.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Enchanter]
+[05Jan2025 20:40:04.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]Rdrx_88
+[05Jan2025 20:40:14.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:45160] logged in with entity id 73897 at (-4095.975634389143, 97.00133597911214, 925.7726711777616)
+[05Jan2025 20:40:14.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:40:14.804] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:40:18.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was slain by [MAGO]Rdrx_88
+[05Jan2025 20:40:39.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 4 targets]
+[05Jan2025 20:40:51.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]Rdrx_88
+[05Jan2025 20:40:59.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]javipgRLY]
+[05Jan2025 20:41:07.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]Rdrx_88]
+[05Jan2025 20:41:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]Rdrx_88: Kicked by an operator]
+[05Jan2025 20:41:46.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rdrx_88 lost connection: Kicked by an operator
+[05Jan2025 20:41:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 left the game
+[05Jan2025 20:41:52.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rdrx_88[/[::1]:56504] logged in with entity id 74486 at (-4090.0826164088517, 96.0, 917.7965736261178)
+[05Jan2025 20:41:52.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 joined the game
+[05Jan2025 20:41:52.845] [Server thread/INFO] [Jade/]: Syncing config to Rdrx_88 (6d7cf8d7-6f38-3d4c-ac99-07bc9eee2e22)
+[05Jan2025 20:42:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Applied effect Night Vision to [MAGO]javipgRLY]
+[05Jan2025 20:42:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was slain by [MAGO]javipgRLY
+[05Jan2025 20:42:30.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]javipgRLY: Kicked by an operator]
+[05Jan2025 20:42:30.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: javipgRLY lost connection: Kicked by an operator
+[05Jan2025 20:42:30.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY left the game
+[05Jan2025 20:42:36.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: javipgRLY[/[::1]:59060] logged in with entity id 74769 at (-4088.556834709046, 96.0, 928.7648807615336)
+[05Jan2025 20:42:36.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY joined the game
+[05Jan2025 20:42:36.446] [Server thread/INFO] [Jade/]: Syncing config to javipgRLY (c5b94b4f-3156-3cb6-9bf4-0ef550d6f77c)
+[05Jan2025 20:42:37.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]grillo11]
+[05Jan2025 20:42:48.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was slain by [MAGO]grillo11
+[05Jan2025 20:42:56.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]grillo11]
+[05Jan2025 20:43:03.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was slain by [MAGO]javipgRLY
+[05Jan2025 20:43:13.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: You logged in from another location
+[05Jan2025 20:43:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:43:13.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:54146] logged in with entity id 75095 at (-4108.31421175763, 96.0, 930.4822291665471)
+[05Jan2025 20:43:13.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:43:13.560] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:43:36.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]javipgRLY]
+[05Jan2025 20:43:38.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 4 targets]
+[05Jan2025 20:43:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]Rdrx_88: Kicked by an operator]
+[05Jan2025 20:43:54.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rdrx_88 lost connection: Kicked by an operator
+[05Jan2025 20:43:54.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 left the game
+[05Jan2025 20:43:59.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rdrx_88[/[::1]:52516] logged in with entity id 75435 at (-4092.6759020606705, 96.96455249140338, 926.5396753802631)
+[05Jan2025 20:43:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 joined the game
+[05Jan2025 20:43:59.442] [Server thread/INFO] [Jade/]: Syncing config to Rdrx_88 (6d7cf8d7-6f38-3d4c-ac99-07bc9eee2e22)
+[05Jan2025 20:44:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Teleported [MAGO]javipgRLY to [MAGO]chawito]
+[05Jan2025 20:44:48.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]javipgRLY: Kicked by an operator]
+[05Jan2025 20:44:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]chawito: Kicked by an operator]
+[05Jan2025 20:44:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]grillo11: Kicked by an operator]
+[05Jan2025 20:44:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]Rdrx_88: Kicked by an operator]
+[05Jan2025 20:44:48.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Kicked by an operator
+[05Jan2025 20:44:48.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito left the game
+[05Jan2025 20:44:48.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: javipgRLY lost connection: Kicked by an operator
+[05Jan2025 20:44:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY left the game
+[05Jan2025 20:44:48.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Kicked by an operator
+[05Jan2025 20:44:48.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:44:48.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rdrx_88 lost connection: Kicked by an operator
+[05Jan2025 20:44:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 left the game
+[05Jan2025 20:44:53.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rdrx_88[/[::1]:49240] logged in with entity id 75711 at (-4016.0338268622622, 70.0, 927.3625384477662)
+[05Jan2025 20:44:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 joined the game
+[05Jan2025 20:44:53.550] [Server thread/INFO] [Jade/]: Syncing config to Rdrx_88 (6d7cf8d7-6f38-3d4c-ac99-07bc9eee2e22)
+[05Jan2025 20:44:53.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: javipgRLY[/[::1]:49244] logged in with entity id 75712 at (-4090.5145238776145, 96.0, 915.8227197180428)
+[05Jan2025 20:44:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY joined the game
+[05Jan2025 20:44:53.680] [Server thread/INFO] [Jade/]: Syncing config to javipgRLY (c5b94b4f-3156-3cb6-9bf4-0ef550d6f77c)
+[05Jan2025 20:44:53.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:49252] logged in with entity id 75859 at (-4086.300000011921, 96.0, 909.3062317194268)
+[05Jan2025 20:44:53.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito joined the game
+[05Jan2025 20:44:53.990] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[05Jan2025 20:44:58.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:34588] logged in with entity id 76209 at (-4088.650350009465, 96.0, 913.3882504584867)
+[05Jan2025 20:44:58.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:44:58.828] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:45:17.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]grillo11
+[05Jan2025 20:45:54.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Hot Stuff]
+[05Jan2025 20:46:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was killed
+[05Jan2025 20:46:12.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]grillo11]
+[05Jan2025 20:46:27.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked [MAGO]grillo11: Kicked by an operator]
+[05Jan2025 20:46:27.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Kicked by an operator
+[05Jan2025 20:46:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:46:32.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:36858] logged in with entity id 77120 at (-4107.825744577724, 96.0, 928.9120398773173)
+[05Jan2025 20:46:32.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:46:32.351] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:46:43.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:47:38.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[05Jan2025 20:47:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Killed [MAGO]chawito]
+[05Jan2025 20:48:00.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: You logged in from another location
+[05Jan2025 20:48:00.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:48:00.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:38142] logged in with entity id 77786 at (-4102.445364291692, 96.0, 926.5917679198097)
+[05Jan2025 20:48:00.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:48:00.393] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:48:13.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]javipgRLY]
+[05Jan2025 20:48:15.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 4 targets]
+[05Jan2025 20:48:58.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]javipgRLY]
+[05Jan2025 20:49:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was killed
+[05Jan2025 20:49:16.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]grillo11]
+[05Jan2025 20:49:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was doomed to fall by Pillager
+[05Jan2025 20:49:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:49:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Gave 64 [Bottle o' Enchanting] to [MAGO]Rdrx_88]
+[05Jan2025 20:50:00.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]javipgRLY]
+[05Jan2025 20:50:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]javipgRLY]
+[05Jan2025 20:50:15.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]grillo11
+[05Jan2025 20:50:25.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]javipgRLY to [MAGO]chawito]
+[05Jan2025 20:50:31.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported [MAGO]Rdrx_88 to [MAGO]chawito]
+[05Jan2025 20:50:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was killed
+[05Jan2025 20:50:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Killed [MAGO]javipgRLY]
+[05Jan2025 20:50:39.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to [MAGO]Rdrx_88]
+[05Jan2025 20:51:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was slain by [MAGO]grillo11
+[05Jan2025 20:51:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to [MAGO]Rdrx_88]
+[05Jan2025 20:51:58.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 moved too quickly! 0.27483055739367046,96.44458460883908,0.15267737825456607
+[05Jan2025 20:51:59.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 moved too quickly! 0.0910866180006451,187.1156076700653,0.15837791641672538
+[05Jan2025 20:52:00.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 moved too quickly! 0.12410248255901024,233.4528576816865,0.1976310028358057
+[05Jan2025 20:52:01.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 moved too quickly! 0.0,436.96315521788756,0.0
+[05Jan2025 20:52:02.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 was kicked for floating too long!
+[05Jan2025 20:52:02.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Flying is not enabled on this server
+[05Jan2025 20:52:02.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:52:11.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:49962] logged in with entity id 80064 at (-4084.251070928708, 4283.124568967194, 935.2670459114646)
+[05Jan2025 20:52:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:52:11.791] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:52:14.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 moved too quickly! 0.0,357.88362460873486,0.0
+[05Jan2025 20:52:16.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 moved too quickly! 0.0,360.6169903134487,0.0
+[05Jan2025 20:52:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]grillo11 to [MAGO]chawito]
+[05Jan2025 20:53:06.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was killed
+[05Jan2025 20:53:06.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]grillo11]
+[05Jan2025 20:53:16.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]javipgRLY]
+[05Jan2025 20:53:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:53:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was slain by [MAGO]javipgRLY
+[05Jan2025 20:54:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was slain by [MAGO]javipgRLY
+[05Jan2025 20:54:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]Rdrx_88
+[05Jan2025 20:54:44.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]chawito]
+[05Jan2025 20:54:54.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to [MAGO]Rdrx_88]
+[05Jan2025 20:54:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]Rdrx_88
+[05Jan2025 20:55:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was slain by [MAGO]javipgRLY
+[05Jan2025 20:55:45.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]Rdrx_88
+[05Jan2025 20:56:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:56:13.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:56:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:56:30.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was killed
+[05Jan2025 20:56:30.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]grillo11]
+[05Jan2025 20:56:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:56:54.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Kicked [MAGO]grillo11: Kicked by an operator]
+[05Jan2025 20:56:54.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Kicked by an operator
+[05Jan2025 20:56:54.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 20:56:58.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:40086] logged in with entity id 82609 at (-4102.3934896908995, 96.0, 927.9644714657637)
+[05Jan2025 20:56:58.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 20:56:58.656] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[05Jan2025 20:57:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY was slain by [MAGO]Rdrx_88
+[05Jan2025 20:57:51.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was killed
+[05Jan2025 20:57:51.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]grillo11]
+[05Jan2025 20:57:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:57:58.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:58:07.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:58:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:58:08.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Applied effect Night Vision to [MAGO]grillo11]
+[05Jan2025 20:58:13.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:58:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:58:21.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:58:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:58:30.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:58:30.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:58:33.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]chawito]
+[05Jan2025 20:58:39.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Teleported [MAGO]grillo11 to [MAGO]javipgRLY]
+[05Jan2025 20:58:41.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[05Jan2025 20:58:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]javipgRLY: Killed [MAGO]Rdrx_88]
+[05Jan2025 20:58:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[05Jan2025 20:58:56.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Killed [MAGO]chawito]
+[05Jan2025 20:59:03.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[05Jan2025 20:59:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]grillo11: Killed [MAGO]chawito]
+[05Jan2025 20:59:03.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MAGO]chawito> -
+[05Jan2025 20:59:58.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Timed out
+[05Jan2025 20:59:58.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 left the game
+[05Jan2025 21:00:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to [MAGO]Rdrx_88]
+[05Jan2025 21:00:57.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]javipgRLY has made the advancement [Ice Bucket Challenge]
+[05Jan2025 21:01:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 3 targets]
+[05Jan2025 21:09:11.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set own game mode to Creative Mode]
+[05Jan2025 21:09:59.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set own game mode to Survival Mode]
+[05Jan2025 21:14:54.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:50646] logged in with entity id 87668 at (-4096.810172925397, 96.0, 926.2427997169825)
+[05Jan2025 21:14:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 joined the game
+[05Jan2025 21:14:54.937] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)

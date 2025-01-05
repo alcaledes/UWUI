@@ -237,9 +237,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/licowitch_tower": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "licowitch_tower": "2025-01-05 19:43:34 +0000"
+      "bastion": "2025-01-05 19:08:17 +0000"
     },
     "done": true
   },
@@ -249,15 +249,15 @@
     },
     "done": true
   },
-  "divinerpg:overworld/jungle_stegosaurus_slayer": {
+  "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
-      "kill_jungle_dramcryx": "2025-01-05 20:10:54 +0000"
+      "location0": "2025-01-05 19:40:02 +0000"
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
+  "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
-      "bastion": "2025-01-05 19:08:17 +0000"
+      "licowitch_tower": "2025-01-05 19:43:34 +0000"
     },
     "done": true
   },
@@ -267,9 +267,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_conqueror": {
+  "divinerpg:overworld/jungle_stegosaurus_slayer": {
     "criteria": {
-      "location0": "2025-01-05 19:40:02 +0000"
+      "kill_jungle_dramcryx": "2025-01-05 20:10:54 +0000"
     },
     "done": true
   },
